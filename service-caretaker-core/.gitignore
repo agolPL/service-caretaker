@@ -1,0 +1,9 @@
+# Generated
+build
+
+# Idea
+.idea
+*.iml
+*.ipr
+*.uml
+

@@ -1,0 +1,3 @@
+rootProject.name = 'service-caretaker'
+include 'service-caretaker-core'
+
